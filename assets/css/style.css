@@ -1612,7 +1612,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #545454;
+  color:  #FF003D;
   position: relative;
 }
 .blog .sidebar .sidebar-item {
@@ -1877,6 +1877,11 @@ section {
 
 .right-profile-card{
   margin-bottom: 30px;
+}
+
+
+.work-container h3{
+  color: #FF003D;
 }
 
 
