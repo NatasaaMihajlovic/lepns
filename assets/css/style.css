@@ -1192,6 +1192,17 @@ section {
   margin: 0 2px;
 }
 
+#alumni {
+  text-align: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  padding: 30px 20px;
+  background: #fff;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -1882,6 +1893,11 @@ section {
 
 .work-container h3{
   color: #FF003D;
+}
+
+.normal-link {
+  color: #444444;
+  text-decoration: none;
 }
 
 
