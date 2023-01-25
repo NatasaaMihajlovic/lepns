@@ -1166,6 +1166,10 @@ section {
   margin-bottom: 2px;
   font-size: 18px;
 }
+
+.profile {
+  max-width: 80%;
+}
 .team .member span {
   font-style: italic;
   display: block;
