@@ -224,6 +224,22 @@
         e.preventDefault();
         portfolioFilters.forEach(function(el) {
           el.classList.remove('filter-active');
+
+          var element = document.getElementById("dontshow1");
+          element.classList.remove("hide");
+
+          var element = document.getElementById("dontshow2");
+          element.classList.remove("hide");
+
+          var element = document.getElementById("dontshow3");
+          element.classList.remove("hide");
+
+          var element = document.getElementById("dontshow4");
+          element.classList.remove("hide");
+
+          var element = document.getElementById("dontshow5");
+          element.classList.remove("hide");
+
         });
         this.classList.add('filter-active');
 
